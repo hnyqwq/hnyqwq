@@ -25,10 +25,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          # 最近活动图表
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_from: 200
           # 代码行数完整历史
           plugin_lines: yes
           plugin_lines_history_limit: 1
